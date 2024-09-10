@@ -2,7 +2,7 @@
 	<el-config-provider :locale="zhCn">
 		<div
 			class="w-full h-screen overflow-x-hidden overflow-y-auto"
-			style="background-image: url('https://images.weirain.com/rest/4iNwx7K.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat;"
+			style="background-image: url('https://www.loliapi.com/acg'); background-size: cover; background-position: center; background-repeat: no-repeat;"
 		>
 			<el-scrollbar>
 				<div
