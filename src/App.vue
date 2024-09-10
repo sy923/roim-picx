@@ -58,9 +58,7 @@ import { faCog, faUpload } from '@fortawesome/free-solid-svg-icons'
 import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from 'element-plus/es/locale/lang/zh-cn'
-
-const repoLink = 'https://roim.app'
-const repoName = 'roim-picx'
+	
 const appName = '风尘落微雨的图床'
 
 document.title = appName
