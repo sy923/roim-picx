@@ -1,6 +1,9 @@
 <template>
 	<el-config-provider :locale="zhCn">
-		<div class="w-full h-screen overflow-x-hidden overflow-y-auto">
+		<div
+			class="w-full h-screen overflow-x-hidden overflow-y-auto"
+			style="background-image: url('https://images.weirain.com/rest/4iNwx7K.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat;"
+		>
 			<el-scrollbar>
 				<div
 					class="w-full h-16 bg-rose-100/50 shadow-sm sticky left-0 top-0 backdrop-blur-sm z-10"
